@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem Hussen</h1>
-<h3 align="center">Android & PHP Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemhussen&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhussen" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_GMmmCHIKEkxneL52YxYWBI8WRyDUFX1/view?usp=sharing](https://drive.google.com/file/d/1_GMmmCHIKEkxneL52YxYWBI8WRyDUFX1/view?usp=sharing)
 
-- ⚡ Fun fact **I'm Banana**
+- ⚡ Fun fact **They Call Me Fino 🍞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
