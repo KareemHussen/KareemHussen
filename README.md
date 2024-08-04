@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemhussen" alt="kareemhussen" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness App](https://github.com/KareemHussen/FitnessApp)
+- 🔭 I’m currently working on a **Sass Project**
 
 - 👯 I’m looking to collaborate on **Big Project**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kareem-hussen/](https://www.linkedin.com/in/kareem-hussen/)
 
-- 💬 Ask me about **Android & Back-end(Laravel)**
+- 💬 Ask me about **Back-end(Laravel)**
 
 - 📫 How to reach me **kareemhussen500@gmail.com**
 
